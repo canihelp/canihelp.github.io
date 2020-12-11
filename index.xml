@@ -7,10 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>mehadih2727@gmail.com (Mehadi Hassan)</managingEditor>
-    <webMaster>mehadih2727@gmail.com (Mehadi Hassan)</webMaster>
-    
-	<atom:link href="https://canihelp.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <webMaster>mehadih2727@gmail.com (Mehadi Hassan)</webMaster><atom:link href="https://canihelp.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
